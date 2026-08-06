@@ -1,0 +1,1 @@
+cocos start-mcp-server --project ./my-game --port 3000
